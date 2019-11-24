@@ -31,7 +31,7 @@ Nayse da Silva Fagundes
 ### INFORMAÇÕES SOBRE A APLICAÇÃO:
 
 
-![Image](im..png_Easy-Resize.com.jpg)
+![Image](FJIMG_20191112_082229.jpg)
 
 
 ## - PROVA - DOWNLOAD
@@ -40,6 +40,6 @@ Nayse da Silva Fagundes
 
 ### Contato
 
-- jose.silva@arapiraca.ufal.br
-- livia.cavalcante@arapiraca.ufal.br
-- nayse.fagundes@arapiraca.ufal.br
+- _jose.silva@arapiraca.ufal.br_
+- _livia.cavalcante@arapiraca.ufal.br_
+- _nayse.fagundes@arapiraca.ufal.br_
