@@ -28,7 +28,7 @@ Nayse da Silva Fagundes
 
 ```
 
-### Data de aplicação:
+### INFORMAÇÕES SOBRE A APLICAÇÃO:
 
 ![Image](files/im..png.jpg)
 
