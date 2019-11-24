@@ -28,26 +28,15 @@ Nayse da Silva Fagundes
 
 ```
 
-### Markdown
+### Data de aplicação:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+ ![Image](src)
 
-# Header 1
-## Header 2
-### Header 3
+![Image](src)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://olimpiada.ic.unicamp.br/info/) and ![Image](src)
+![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
