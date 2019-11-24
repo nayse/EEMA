@@ -35,7 +35,7 @@ Alunos(a) do 9º do ensino fundamental realizaram o simulado.
 ```
 
 ![Image](files/foto.png)
-
+![Image](files/it.png)
 ```
 - PROVA - DOWNLOAD
 - GABARITO - DOWNLOAD
