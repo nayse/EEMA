@@ -32,6 +32,9 @@ https://sites.google.com/site/el7hon
 ```
 12/11/2019 - 9:00 ás 10:00.
 Alunos(a) do 9º do ensino fundamental realizaram o simulado.
+
+Modalidade Iniciação 
+Na modalidade Iniciação as provas são feitas com papel e lápis, com tarefas sobre lógica no formato de múltipla escolha.
 ```
 
 ![Image](files/foto.png)
