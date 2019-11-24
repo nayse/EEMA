@@ -1,4 +1,4 @@
-## SIMULADO
+
 ## Acão Curricular de Extensão - OBI: Olímpiada Brasileira de Informática
 
 A OBI: Olímpiada Brasileira de Informática é uma competição organizada nos moldes das outras olimpíadas científicas brasileiras, como Matemática, Física e Astronomia. O objetivo da OBI é despertar nos alunos o interesse por uma ciência importante na formação básica hoje em dia (no caso, ciência da computação), através de uma atividade que envolve desafio, engenhosidade e uma saudável dose de competição. A organização da OBI está cargo do Instituto de Computação da UNICAMP. https://olimpiada.ic.unicamp.br/info/
