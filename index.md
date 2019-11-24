@@ -36,7 +36,7 @@ Nayse da Silva Fagundes
 
 ![Image](src)
 
-![Image](/files/FJIMG_20191112_082229.jpg)
+![Image](eema/files/FJIMG_20191112_082229.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -47,6 +47,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contato
 
-nayse.fagundes@arapiraca.ufal.br
-jose.silva@arapiraca.ufal.br
-livia.cavalcante@arapiraca.ufal.br
+- nayse.fagundes@arapiraca.ufal.br
+- jose.silva@arapiraca.ufal.br
+- livia.cavalcante@arapiraca.ufal.br
