@@ -31,10 +31,10 @@ Nayse da Silva Fagundes
 ### INFORMAÇÕES SOBRE A APLICAÇÃO:
 ```
 12/11/2019 - 9:00 ás 10:00.
-20 alunos(a) do 9º realizaram o simulado.
+Alunos(a) do 9º do ensino fundamental realizaram o simulado.
 ```
 
-![Image](files/imagem.png.jpg)
+![Image](files/foto.png)
 
 ```
 - PROVA - DOWNLOAD
