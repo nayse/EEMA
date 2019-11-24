@@ -26,6 +26,7 @@ José Aparecido da Silva
 Livia Cavalante Batalha
 Nayse da Silva Fagundes
 
+Professor(a): Elthon Oliveria.
 ```
 
 ### INFORMAÇÕES SOBRE A APLICAÇÃO:
@@ -45,7 +46,7 @@ Alunos(a) do 9º do ensino fundamental realizaram o simulado.
 ### Contato
 
 ```
-- _jose.silva@arapiraca.ufal.br_
-- _livia.cavalcante@arapiraca.ufal.br_
-- _nayse.fagundes@arapiraca.ufal.br_
+- jose.silva@arapiraca.ufal.br
+- livia.cavalcante@arapiraca.ufal.br
+- nayse.fagundes@arapiraca.ufal.br
 ```
