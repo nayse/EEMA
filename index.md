@@ -44,6 +44,8 @@ Nayse da Silva Fagundes
 
 ### Contato
 
+```
 - _jose.silva@arapiraca.ufal.br_
 - _livia.cavalcante@arapiraca.ufal.br_
 - _nayse.fagundes@arapiraca.ufal.br_
+```
