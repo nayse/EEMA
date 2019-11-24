@@ -31,7 +31,7 @@ Nayse da Silva Fagundes
 ### INFORMAÇÕES SOBRE A APLICAÇÃO:
 
 
-![Image](files/im..png.jpg)
+![Image](im..png_Easy-Resize.com.jpg)
 
 
 ## - PROVA - DOWNLOAD
