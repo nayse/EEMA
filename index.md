@@ -23,7 +23,7 @@ José Aparecido da Silva
 Livia Cavalante Batalha
 Nayse da Silva Fagundes
 
-Professor(a): Elthon Oliveria.
+Professor(a): Elthon Oliveira.
 https://sites.google.com/site/el7hon
 ```
 
