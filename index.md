@@ -3,7 +3,7 @@ A _OBI: Olímpiada Brasileira de Informática_ é uma competição organizada no
 
 O processo de inserção curricular da extensão da UFAL atende ao que está preconizado nos documentos nacionais que se referem às políticas para a Educação, que englobam, entre outros: o Plano Nacional de Educação, as Diretrizes Curriculares Nacionais para o ensino Superior e as as Diretrizes para a Extensão na Educação Superior Brasileira.
 
-## ESCOLA DE APLICAÇÃO DO SIMULADO: ESCOLA MANOEL ANDRÉ
+## ESCOLA DE APLICAÇÃO DO SIMULADO: ESCOLA ESTADUAL MANOEL ANDRÉ
 
 ```
 Código INEP: 27016412
